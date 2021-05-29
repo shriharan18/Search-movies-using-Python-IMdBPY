@@ -1,5 +1,5 @@
-# importing the module
-import imdb
+# This code was written by Shreeharan for the YouTube Channel Stark Intelligence : https://www.youtube.com/starkintelligence
+import imdb     # importing the module
 
 # creating instance of IMDb
 ia = imdb.IMDb()
